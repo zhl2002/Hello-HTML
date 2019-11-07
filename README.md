@@ -1,6 +1,6 @@
 # Hello-HTML
 ###### Aquesta paguina explicarem com descarregar i modificar el codi.
-<img class="hola" src="aaa.png"
+![imagen](aaa.png)
 ```
 git clone (descargar)
 (Modifica el fitxero)
